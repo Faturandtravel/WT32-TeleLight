@@ -1,4 +1,4 @@
-# WT32-ETH01 Telegram Smart Light Control
+# WT32-ETH01 Telegram Light Control
 
 An Arduino/PlatformIO project for controlling a light or electrical device through a relay connected to the **WT32-ETH01**, controlled by a Telegram bot over an Ethernet connection.
 
